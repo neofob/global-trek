@@ -1,0 +1,50 @@
+{
+  "location_history": [
+    {
+      "timestamp": 1517493599,
+      "attachments": [
+        {
+          "data": [
+            {
+              "place": {
+                "coordinate": {
+                  "latitude": 50.84575,
+                  "longitude": 4.35104
+                },
+                "creation_timestamp": 1517498354
+              }
+            },
+            {
+              "place": {
+                "coordinate": {
+                  "latitude": 50.84083,
+                  "longitude": 4.35611
+                },
+                "creation_timestamp": 1517497727
+              }
+            },
+            {
+              "place": {
+                "coordinate": {
+                  "latitude": 50.84394,
+                  "longitude": 4.3491
+                },
+                "creation_timestamp": 1517496938
+              }
+            },
+            {
+              "place": {
+                "coordinate": {
+                  "latitude": 50.84544,
+                  "longitude": 4.35666
+                },
+                "creation_timestamp": 1517490781
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Tuan Trung Pham was in Brussels"
+    }
+  ]
+}
