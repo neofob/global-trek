@@ -1,0 +1,14 @@
+{
+  "order": 0,
+  "template": "*",
+  "settings": {},
+  "mappings": {
+    "_default_": {
+      "properties": {
+        "coordinate": {
+          "type": "geo_point"
+        }
+      }
+    }
+  }
+}
